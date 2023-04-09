@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vikrant-chauhan-77a63623a](https://www.linkedin.com/in/vikrant-chauhan-77a63623a)
+- 👨‍💻 All of my projects are available at GitHub and this is my LinkedIn profile [https://www.linkedin.com/in/vikrant-chauhan-77a63623a](https://www.linkedin.com/in/vikrant-chauhan-77a6)
 
 - 💬 Ask me about **Web development and competitive coding**
 
