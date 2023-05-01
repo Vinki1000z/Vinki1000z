@@ -3,7 +3,7 @@
  <img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:1280/1*P8vtybQ_WWYDTEdSpjyIhg.gif" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinki1000z&label=Profile%20views&color=0e75b6&style=flat" alt="vinki1000z" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=vinki1000z&label=Profile%20views&color=0e75b6&style=flat](https://assets3.lottiefiles.com/packages/lf20_wcwcr5u6.json)" alt="vinki1000z" /> </p>
 
 - 🔭 I’m currently working on **open-source-project**
 
