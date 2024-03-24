@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikrant Chauhan</h1>
-<h3 align="center">A passionate frontend and backend developer (react.js) from India</h3>
+<h3 align="center">A passionate web developer(react.js) , 
+Data visualization(Power Bi), 
+Machine learning from India</h3>
  <img align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:1280/1*P8vtybQ_WWYDTEdSpjyIhg.gif" />
 
 
